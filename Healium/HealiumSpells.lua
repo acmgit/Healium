@@ -56,8 +56,6 @@ function Healium_InitSpells(class, race)
 		AddSpell(50769)		-- Revive (rez)
 		AddSpell(392160)	-- Strongen
 		AddSpell(50796)		-- Ressurection
-		AddSpell(102342)
-		AddSpell(102351)
 		
 		-- Druid Remove Corruption
 		Cures[SpellName(2782)] = { 
